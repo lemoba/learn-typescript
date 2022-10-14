@@ -22,6 +22,8 @@ console.log(Array.from(arrayLike, function(n) {
     return this.do(n)
 }, map)) // [2, 4, 6]
 
+//https://www.runoob.com/w3cnote/es6-array.html
+
 
 
 
